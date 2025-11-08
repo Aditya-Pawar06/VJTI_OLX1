@@ -55,7 +55,7 @@ const Home = () => {
           We'd love to hear from you! Share your questions, feedback, or ideas, and let's make VJTI-OLX even better together.
           <div className="mt-4 text-blue-800 font-medium">
           <p className='text-blue-950 font-bold text-2xl'>Contact us</p>
-          <p>ssnavale_b23@it.vjti.ac.in</p>
+          <p>samikshanavale43@gmail.com</p>
         
 
         </div>
